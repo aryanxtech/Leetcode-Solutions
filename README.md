@@ -11,4 +11,12 @@ My LeetCode solutions in Java, organized by problem and topic.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->

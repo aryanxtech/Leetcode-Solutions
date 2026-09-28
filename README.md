@@ -16,8 +16,13 @@ My LeetCode solutions in Java, organized by problem and topic.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

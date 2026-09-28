@@ -7,6 +7,7 @@ My LeetCode solutions in Java, organized by problem and topic.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aryanxtech/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
